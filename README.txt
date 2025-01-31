@@ -8,10 +8,8 @@ Current data:
     - Klaviyo: Downloaded 12/20/24
     - Customers.ai: Downloaded 12/23/24
 
-
 How To Run:
     - run subscibers_and_purchasers.py in chosen environment
-
 
 Outputs:
     - Purchased2024_Not_Subscribed.csv: Customers who made a purchase in 2024 but are not subscribed to the email list.
